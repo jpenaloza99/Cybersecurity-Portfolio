@@ -2,14 +2,12 @@
 # Hello, I'm Jesus Penaloza-Merlan
 <a href="https://www.linkedin.com/in/jpenalozamerlan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Technical Support Specialist with 2 years of experience in managing and resolving technical issues, ensuring optimal performance of IT systems, and providing exceptional customer service. Skilled in various operating systems, network protocols, and IT support tools, demonstrating a strong foundation in information technology. Currently pursuing career advancement into the cybersecurity field to contribute effective solutions and insights as a vital member of a cybersecurity team, aiming to protect organizational assets and ensure data integrity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I'm Currently pursuing career advancement into the cybersecurity field to contribute effective solutions and insights as a vital member of a cybersecurity team, aiming to protect organizational assets and ensure data integrity.
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
