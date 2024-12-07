@@ -10,7 +10,6 @@ I'm Currently pursuing career advancement into the cybersecurity field to contri
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -45,7 +44,7 @@ I'm Currently pursuing career advancement into the cybersecurity field to contri
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <a href="https://www.credly.com/badges/f651fcc0-794b-4712-bea1-31d294fc3900/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
