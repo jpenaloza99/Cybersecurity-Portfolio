@@ -26,8 +26,11 @@ I'm Currently pursuing career advancement into the cybersecurity field to contri
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Virtualization
+<div>
+<img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -56,5 +59,4 @@ I'm Currently pursuing career advancement into the cybersecurity field to contri
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- 
