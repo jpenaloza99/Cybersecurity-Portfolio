@@ -11,14 +11,10 @@ I'm Currently pursuing career advancement into the cybersecurity field to contri
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Splunk SIEM Implementation and Log Analysis   | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Windows Server 2022  | Log Analysis    |
+| Entra AD(formerly Azure AD | Traffic Analysis     |
+| Active Directory    | SQL    |
+| DNS/DHCP    | M365
 
 ## Tools
 
