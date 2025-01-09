@@ -10,7 +10,8 @@ I'm Currently pursuing career advancement into the cybersecurity field to contri
 
 
 ## Skills
-
+|Skills|
+------------------------
 | Windows Server 2022  | Log Analysis    |
 | Entra AD(formerly Azure AD | Traffic Analysis     |
 | Active Directory    | SQL    |
