@@ -61,8 +61,8 @@ I'm Currently pursuing career advancement into the cybersecurity field to contri
 ## Projects
 
 | Project                                       |
-|-----------------------------------------------|----------------------------|
-| <a href="https://google.com">Splunk SIEM Implementation and Log Analysis</a>
+|-----------------------------------------------|
+| <a href="https://google.com">Splunk SIEM Implementation and Log Analysis</a>|
 | Network Traffic Monitoring and Attack Detection| 
 | Security Automation with Shuffle SOAR         |
 | Incident Response Planning and Execution      |
