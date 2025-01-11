@@ -1,6 +1,8 @@
 </br>
+</br>
 
 # Hello, I'm Jesus Penaloza-Merlan
+
 <a href="https://www.linkedin.com/in/jpenalozamerlan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Summary
@@ -44,6 +46,7 @@ Technical Support Specialist with 2 years of experience in managing and resolvin
 -
 -
 -
+
 </br>
 
 ## Tools
