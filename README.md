@@ -5,7 +5,29 @@
 ## Summary
 Technical Support Specialist with 2 years of experience in managing and resolving technical issues, ensuring optimal performance of IT systems, and providing exceptional customer service. Skilled in various operating systems, network protocols, and IT support tools, demonstrating a strong foundation in information technology. Currently pursuing career advancement into the cybersecurity field to contribute effective solutions and insights as a vital member of a cybersecurity team, aiming to protect organizational assets and ensure data integrity.
 
+## Certifications
+<div>
+<a href="https://www.credly.com/badges/f651fcc0-794b-4712-bea1-31d294fc3900/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA_ITF+-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_IT_Support-000080?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>
 
+</br>
+
+## Projects
+
+| Project                                                                            |
+|------------------------------------------------------------------------------------|
+| <a href="https://google.com"><b>Splunk SIEM Implementation and Log Analysis</b></a>|
+| <a href="https://google.com"><b>Splunk SIEM Implementation and Log Analysis</b></a>| 
+| <a href="https://google.com"><b>Splunk SIEM Implementation and Log Analysis</b></a>|
+| <a href="https://google.com"><b>Splunk SIEM Implementation and Log Analysis</b></a>|
+| <a href="https://google.com"><b>Splunk SIEM Implementation and Log Analysis</b></a>|
+| <a href="https://google.com"><b>Splunk SIEM Implementation and Log Analysis</b></a>|
 
 
 ## Skills
@@ -21,11 +43,10 @@ Technical Support Specialist with 2 years of experience in managing and resolvin
 -
 -
 -
-
-
+</br>
+</br>
 
 ## Tools
-
 
 ### Network
 <div>
@@ -50,25 +71,3 @@ Technical Support Specialist with 2 years of experience in managing and resolvin
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-
-<div>
-<a href="https://www.credly.com/badges/f651fcc0-794b-4712-bea1-31d294fc3900/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_ITF+-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_IT_Support-000080?&style=for-the-badge&logo=Google&logoColor=white" />
-</div>
-
-## Projects
-
-| Project                                       |
-|-----------------------------------------------|
-| <a href="https://google.com">Splunk SIEM Implementation and Log Analysis</a>|
-| Network Traffic Monitoring and Attack Detection| 
-| Security Automation with Shuffle SOAR         |
-| Incident Response Planning and Execution      |
-| Case Management with TheHive                  |
-| Scripting and Automation for Threat Mitigation|
