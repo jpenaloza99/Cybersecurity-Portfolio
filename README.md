@@ -1,5 +1,3 @@
-</br>
-</br>
 
 # Hello, I'm Jesus Penaloza-Merlan
 
@@ -19,7 +17,6 @@ Technical Support Specialist with 2 years of experience in managing and resolvin
 <img src="https://img.shields.io/badge/-Google_IT_Support-000080?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
-</br>
 
 ## Projects
 
@@ -47,7 +44,6 @@ Technical Support Specialist with 2 years of experience in managing and resolvin
 -
 -
 
-</br>
 
 ## Tools
 
