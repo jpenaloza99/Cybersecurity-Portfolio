@@ -2,4 +2,4 @@
 ## Diagram layout 
 
 
-![Diagram Layout](Splunk_Project_Diagram.png)
+![Diagram Layout](Images/Splunk_Project_Diagram.png)
